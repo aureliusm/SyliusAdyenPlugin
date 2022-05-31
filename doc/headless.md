@@ -243,7 +243,7 @@ Sample response:
 }
 ```
 
-This configuration shall be then injected into the dropin configuration provided by [Adyen itself](https://docs.adyen.com/online-payments/web-drop-in). When the configuration for the dropin is generated, it already has the correct payment initialization/details/removal set up. 
+This configuration shall be then injected into the dropin configuration provided by [Adyen itself]([https://docs.adyen.com/online-payments/web-drop-in](https://docs.adyen.com/online-payments/web-drop-in/integrated-before-5-0-0)). Make sure you follow the Drop-in integration guide *before v5.0.0*. When the configuration for the dropin is generated, it already has the correct payment initialization/details/removal set up. 
 
 #### Being redirected back to Sylius
 
